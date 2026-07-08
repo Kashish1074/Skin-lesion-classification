@@ -1,0 +1,27 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Data (too large for GitHub, download separately per README)
+data/
+HAM10000_images_part_1/
+HAM10000_images_part_2/
+*.csv
+
+# Model checkpoints (large; use Git LFS or external hosting instead)
+*.pth
+*.pt
+checkpoints/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# OS/editor
+.DS_Store
+.vscode/
+.idea/
+
+# Env
+.env
