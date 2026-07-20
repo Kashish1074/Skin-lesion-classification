@@ -13,7 +13,7 @@ HAM10000_images_part_2/
 # Model checkpoints (large; use Git LFS or external hosting instead)
 *.pth
 *.pt
-checkpoints/
+
 
 # Streamlit
 .streamlit/secrets.toml
